@@ -1,4 +1,4 @@
-name: prometheusrules
+name: prometheus-rules
 summary: Alerting rules definitions for Prometheus
 version: 1
-repo: https://github.com/CanonicalBootStack/interface-prometheusrules.git
+repo: https://github.com/CanonicalBootStack/interface-prometheus-rules.git
